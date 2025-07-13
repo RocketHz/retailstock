@@ -1,0 +1,62 @@
+{"level":"warn","message":"Intento de login fallido: Usuario no encontrado - nonexistent@example.com","timestamp":"2025-07-06 20:51:27"}
+{"level":"warn","message":"Intento de login fallido: Usuario no encontrado - nonexistent@example.com","timestamp":"2025-07-06 21:00:39"}
+{"level":"warn","message":"Intento de login fallido: Usuario no encontrado - test8@example.com","timestamp":"2025-07-06 21:01:06"}
+{"level":"info","message":"Usuario registrado exitosamente: test8@example.com. Token de verificación: baa0e784-f051-4930-a9b3-ae96b7ca8aec","timestamp":"2025-07-06 21:01:41"}
+{"level":"info","message":"Cuenta verificada exitosamente para el usuario: test8@example.com","timestamp":"2025-07-06 21:02:07"}
+{"level":"info","message":"Login exitoso para el usuario: test8@example.com","timestamp":"2025-07-06 21:02:18"}
+{"level":"info","message":"Login exitoso para el usuario: test8@example.com","timestamp":"2025-07-06 21:07:05"}
+{"level":"info","message":"Usuario registrado exitosamente: test9@example.com. Token de verificación: 7f84db51-c769-437a-9df0-5d15052169de","timestamp":"2025-07-06 21:08:18"}
+{"level":"info","message":"Cuenta verificada exitosamente para el usuario: test9@example.com","timestamp":"2025-07-06 21:09:08"}
+{"level":"info","message":"Login exitoso para el usuario: test9@example.com","timestamp":"2025-07-06 21:09:22"}
+{"level":"info","message":"Login exitoso para el usuario: test9@example.com","timestamp":"2025-07-06 21:10:59"}
+{"level":"info","message":"Login exitoso para el usuario: test9@example.com","timestamp":"2025-07-06 21:12:33"}
+{"level":"info","message":"Usuario registrado exitosamente: ronnihn28@gmail.com. Token de verificación: 76555118-5b0b-43e9-a9b9-13ee61228811","timestamp":"2025-07-07 14:16:49"}
+{"level":"info","message":"Cuenta verificada exitosamente para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 14:21:43"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 14:54:19"}
+{"level":"warn","message":"Intento de login fallido: Contraseña incorrecta para ronnihn28@gmail.com","timestamp":"2025-07-07 18:07:06"}
+{"level":"warn","message":"Intento de login fallido: Contraseña incorrecta para ronnihn28@gmail.com","timestamp":"2025-07-07 18:08:24"}
+{"level":"warn","message":"Intento de registro fallido: Datos incompletos para testuser@example.com","timestamp":"2025-07-07 18:08:43"}
+{"level":"info","message":"Usuario registrado exitosamente: testuser@example.com. Token de verificación: 271f0664-7e58-4007-873c-363502fd0a12","timestamp":"2025-07-07 18:08:58"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:09:14"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:11:48"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:20:00"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:31:35"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:39:18"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:47:31"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:51:00"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:54:17"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:54:54"}
+{"level":"info","message":"Login exitoso para el usuario: testuser@example.com","timestamp":"2025-07-07 18:58:40"}
+{"level":"warn","message":"Intento de login fallido: Contraseña incorrecta para ronnihn28@gmail.com","timestamp":"2025-07-07 19:33:32"}
+{"level":"info","message":"Usuario registrado exitosamente: ronnihn28@gmail.com. Token de verificación: c15fdd6d-8517-4bec-accc-faca416d5664","timestamp":"2025-07-07 19:38:52"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 19:39:29"}
+{"level":"warn","message":"Intento de login fallido: Usuario no encontrado - ronnihn28@gmail.com","timestamp":"2025-07-07 20:02:57"}
+{"level":"warn","message":"Intento de login fallido: Usuario no encontrado - ronnihn28@gmail.com","timestamp":"2025-07-07 20:03:34"}
+{"level":"info","message":"Usuario registrado exitosamente: ronnihn28@gmail.com. Token de verificación: 32709cc4-75f4-4520-89a3-b78bff728107","timestamp":"2025-07-07 20:04:23"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 20:04:51"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 21:21:56"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 22:04:45"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-07 23:09:15"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 00:16:09"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 01:21:17"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 01:48:55"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 02:10:56"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 02:45:23"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 02:55:28"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 18:38:30"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 23:11:56"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-08 23:23:41"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-09 00:32:17"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-09 01:56:44"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com","timestamp":"2025-07-09 03:04:10"}
+{"level":"info","message":"Iniciando los trabajos de sincronización programados...","timestamp":"2025-07-13 14:25:04"}
+{"level":"info","message":"Iniciando trabajo de sincronización de órdenes de WooCommerce...","timestamp":"2025-07-13 14:25:04"}
+{"level":"info","message":"Trabajo de sincronización de WooCommerce finalizado.","timestamp":"2025-07-13 14:25:04"}
+{"level":"info","message":"Iniciando los trabajos de sincronización programados...","timestamp":"2025-07-13 22:15:32"}
+{"level":"info","message":"Iniciando trabajo de sincronización de órdenes de WooCommerce...","timestamp":"2025-07-13 22:15:32"}
+{"level":"info","message":"Trabajo de sincronización de WooCommerce finalizado.","timestamp":"2025-07-13 22:15:32"}
+{"level":"info","message":"Login exitoso para el usuario: ronnihn28@gmail.com desde IP: 172.18.0.1","timestamp":"2025-07-13 22:16:43"}
+{"level":"info","message":"Iniciando trabajo de sincronización de órdenes de WooCommerce...","timestamp":"2025-07-13 22:30:00"}
+{"level":"info","message":"Trabajo de sincronización de WooCommerce finalizado.","timestamp":"2025-07-13 22:30:00"}
+{"level":"info","message":"Iniciando trabajo de sincronización de órdenes de WooCommerce...","timestamp":"2025-07-13 22:45:00"}
+{"level":"info","message":"Trabajo de sincronización de WooCommerce finalizado.","timestamp":"2025-07-13 22:45:00"}
